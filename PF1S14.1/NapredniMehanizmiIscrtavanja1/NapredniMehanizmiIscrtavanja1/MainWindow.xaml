@@ -1,0 +1,21 @@
+﻿<Window x:Class="NapredniMehanizmiIscrtavanja1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SharpGL WPF Application" Height="350" Width="525" 
+        xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF" Loaded="Window_Loaded" KeyDown="Window_KeyDown" >
+    <Grid>
+        <DockPanel>
+            <ToolBarTray DockPanel.Dock="Top">
+                <ToolBar HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Label>Rendering mode : </Label>
+                    <ComboBox x:Name="renderingTypeComboBox" Margin="0" Width="120" SelectedIndex="0" SelectionChanged="renderingTypeComboBox_SelectionChanged" ForceCursor="True" IsTabStop="False" IsTextSearchEnabled="False" />
+                </ToolBar>
+            </ToolBarTray>
+            <!-- The OpenGL control provides a OpenGL drawing surface. -->
+        <sharpGL:OpenGLControl 
+            Name="openGLControl" OpenGLDraw="openGLControl_OpenGLDraw" 
+            OpenGLInitialized="openGLControl_OpenGLInitialized" Resized="openGLControl_Resized"
+            DrawFPS="True" RenderContextType="FBO" FrameRate="10" />
+        </DockPanel>
+    </Grid>
+</Window>

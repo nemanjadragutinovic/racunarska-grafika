@@ -1,0 +1,123 @@
+c:\users\aleksandar\documents\visual studio 2010\Projects\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe.config
+c:\users\aleksandar\documents\visual studio 2010\Projects\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csprojResolveAssemblyReference.cache
+c:\users\aleksandar\documents\visual studio 2010\Projects\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.baml
+c:\users\aleksandar\documents\visual studio 2010\Projects\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.g.cs
+c:\users\aleksandar\documents\visual studio 2010\Projects\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\App.g.cs
+c:\users\aleksandar\documents\visual studio 2010\Projects\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1_MarkupCompile.cache
+c:\users\aleksandar\documents\visual studio 2010\Projects\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.g.resources
+c:\users\aleksandar\documents\visual studio 2010\Projects\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.Properties.Resources.resources
+c:\users\aleksandar\documents\visual studio 2010\Projects\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe.config
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.g.resources
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe.config
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.g.resources
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Desktop\NapredniMehanizmiIscrtavanja1 - Copy\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe.config
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.g.resources
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\Spremanje Vezbi Grafa\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe.config
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.g.resources
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.GenerateResource.Cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe.config
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.pdb
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.SceneGraph.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.WPF.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csprojResolveAssemblyReference.cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.baml
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.g.cs
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\App.g.cs
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1_MarkupCompile.cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.g.resources
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.Properties.Resources.resources
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.GenerateResource.Cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.exe
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe.config
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.dll
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csprojResolveAssemblyReference.cache
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.baml
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\App.g.cs
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1_MarkupCompile.cache
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.g.resources
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.Properties.Resources.resources
+C:\Users\Nenad\Desktop\RG vezbe 16_17\casovi\cas04\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.GenerateResource.Cache
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe.config
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\NapredniMehanizmiIscrtavanja1.pdb
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csprojAssemblyReference.cache
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.baml
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\App.g.cs
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1_MarkupCompile.cache
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.g.resources
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.Properties.Resources.resources
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.GenerateResource.cache
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.CoreCompileInputs.cache
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.csproj.CopyComplete
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.exe
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\Vezbe4\NapredniMehanizmiIscrtavanja1\NapredniMehanizmiIscrtavanja1\obj\x86\Debug\NapredniMehanizmiIscrtavanja1.pdb
